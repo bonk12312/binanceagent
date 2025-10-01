@@ -24,7 +24,7 @@ function App() {
           <div className="flex items-center space-x-2">
             <span className="text-yellow-400 text-xl font-mono">(</span>
             <a 
-              href="https://x.com/binanceagentbnb" 
+              href="https://x.com/binanceagent1" 
               target="_blank" 
               rel="noopener noreferrer"
               className="social-link text-gray-400 hover:text-yellow-400 transition-colors duration-300 bg-black bg-opacity-50 backdrop-blur-sm p-3 rounded-full border border-gray-700 hover:border-yellow-400"
@@ -64,7 +64,7 @@ function App() {
           <div className="flex items-center space-x-2">
             <span className="text-yellow-400 text-xl font-mono">(</span>
             <a 
-              href="https://x.com/binanceagentbnb" 
+              href="https://x.com/binanceagent1" 
               target="_blank" 
               rel="noopener noreferrer"
               className="social-link text-gray-400 hover:text-yellow-400 transition-colors duration-300 bg-black bg-opacity-50 backdrop-blur-sm p-3 rounded-full border border-gray-700 hover:border-yellow-400"
@@ -107,7 +107,7 @@ function App() {
         <div className="flex items-center space-x-2">
           <span className="text-yellow-400 text-xl font-mono">(</span>
           <a 
-            href="https://x.com/binanceagentbnb" 
+            href="https://x.com/binanceagent1" 
             target="_blank" 
             rel="noopener noreferrer"
             className="social-link text-gray-400 hover:text-yellow-400 transition-colors duration-300 bg-black bg-opacity-50 backdrop-blur-sm p-3 rounded-full border border-gray-700 hover:border-yellow-400"
